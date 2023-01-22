@@ -16,3 +16,5 @@ build/
 .DS_STORE
 
 .env
+
+demo-gpt-3.code-workspace
